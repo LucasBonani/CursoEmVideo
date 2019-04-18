@@ -1,6 +1,5 @@
-# while (valor = 0 , valor < 10 , valor ++)
-
 numero = int(input('Digite um número: '))
+
 print('{} X {} = {}'.format(numero,1,numero*1))
 print('{} X {} = {}'.format(numero,2,numero*2))
 print('{} X {} = {}'.format(numero,3,numero*3))
