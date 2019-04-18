@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b99e82a1-6ea8-485a-a346-8adf373ae12b" name="Default Changelist" comment="" />
+    <list default="true" id="b99e82a1-6ea8-485a-a346-8adf373ae12b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/mundo_1/aula_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo_1/aula_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao_for.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao_for.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,17 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desafios/desafio_21.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -40,14 +39,22 @@
         <option value="$PROJECT_DIR$/desafios/desfaio_15_valor_aluguel_carro.py" />
         <option value="$PROJECT_DIR$/desafios/desafio_16.py" />
         <option value="$PROJECT_DIR$/desafios/desafio_21.py" />
+        <option value="$PROJECT_DIR$/selenium_test.py" />
+        <option value="$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_1/aula_11.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py" />
+        <option value="$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py" />
+        <option value="$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao_for.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1387" />
-    <option name="y" value="15" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="170" />
+    <option name="y" value="91" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -57,7 +64,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,12 +79,19 @@
             <path>
               <item name="CursoEmVideo" type="b2602c69:ProjectViewProjectNode" />
               <item name="CursoEmVideo" type="462c0819:PsiDirectoryNode" />
+              <item name="aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="mundo_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CursoEmVideo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CursoEmVideo" type="462c0819:PsiDirectoryNode" />
               <item name="desafios" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -106,8 +119,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.desafio_21">
-    <configuration name="desafio_13_salario_15%_aumento" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.desafio_43_imc">
+    <configuration name="aula_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio_13_salario_15%_aumento.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo_1/aula_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_14_conversor_temperatura" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula_12_condicoes_aninhadas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio_14_conversor_temperatura.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio_30_par_ou_impar" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio_16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_21" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio_36_emprestimo_bancario" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/desafio_21.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desfaio_15_valor_aluguel_carro" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="desafio_43_imc" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Inmetrics\PycharmProjects\CursoEmVideo\desafios\desafio_15_valor_aluguel_carro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio_21" />
-        <item itemvalue="Python.desafio_16" />
-        <item itemvalue="Python.desfaio_15_valor_aluguel_carro" />
-        <item itemvalue="Python.desafio_13_salario_15%_aumento" />
-        <item itemvalue="Python.desafio_14_conversor_temperatura" />
+        <item itemvalue="Python.desafio_43_imc" />
+        <item itemvalue="Python.desafio_36_emprestimo_bancario" />
+        <item itemvalue="Python.aula_12_condicoes_aninhadas" />
+        <item itemvalue="Python.aula_11" />
+        <item itemvalue="Python.desafio_30_par_ou_impar" />
       </list>
     </recent_temporary>
   </component>
@@ -236,23 +249,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2496474" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32916668" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32916668" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32916668" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23979592" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32993197" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32916668" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -283,78 +296,92 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aulas/ex000.py">
+    <entry file="file://$PROJECT_DIR$/aulas/ex000.py" />
+    <entry file="file://$PROJECT_DIR$/aulas/testando_import_externo_aula08.py" />
+    <entry file="file://$PROJECT_DIR$/aulas/aula7_a.py" />
+    <entry file="file://$PROJECT_DIR$/../aula09_manipulando_cadeia_texto.py" />
+    <entry file="file://$PROJECT_DIR$/aulas/aula09_manipulando_cadeia_texto.py" />
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_14_conversor_temperatura.py" />
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_13_salario_15%_aumento.py" />
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_15_valor_aluguel_carro.py" />
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_16.py" />
+    <entry file="file://$PROJECT_DIR$/aulas/aula08_modulos.py" />
+    <entry file="file://$PROJECT_DIR$/selenium_test.py" />
+    <entry file="file://$PROJECT_DIR$/desafios/desafio_21.py" />
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula10_condicoes.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/testando_import_externo_aula08.py">
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula08_modulos.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula7_operadores_aritimeticos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="65" lean-forward="true" selection-start-line="1" selection-start-column="65" selection-end-line="1" selection-end-column="65" />
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/aula7_a.py">
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="63">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../aula09_manipulando_cadeia_texto.py">
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_1/desafio_28_adivinhar_numero.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_1/desafio_29_ler_velocidade_.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula_11.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="20" lean-forward="true" selection-end-line="24" />
+        <state relative-caret-position="284">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/aula09_manipulando_cadeia_texto.py">
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="28" column="46" selection-start-line="28" selection-start-column="46" selection-end-line="28" selection-end-column="46" />
+        <state relative-caret-position="147">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/desafio_14_conversor_temperatura.py">
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao_for.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+        <state relative-caret-position="246">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/desafio_13_salario_15%_aumento.py">
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="84" selection-start-line="1" selection-start-column="84" selection-end-line="1" selection-end-column="84" />
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/desafio_15_valor_aluguel_carro.py">
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/desafio_16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="51" lean-forward="true" selection-start-line="2" selection-start-column="51" selection-end-line="2" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/aula08_modulos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="30" lean-forward="true" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/desafio_21.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
