@@ -1,0 +1,5 @@
+palavra = input('Digite algo: ')
+print('{} é alfabético?: {}'.format(palavra, palavra.isalpha()))
+print('{} está em maiúsculo?: {}'.format(palavra, palavra.isupper()))
+print('{} é numérico?: {}'.format(palavra, palavra.isnumeric()))
+print('{} está em minúsculo?: {}'.format(palavra, palavra.islower()))
