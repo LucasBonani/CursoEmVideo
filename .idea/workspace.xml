@@ -2,12 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b99e82a1-6ea8-485a-a346-8adf373ae12b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aulas_17_1_listas_a.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_78_maior_menor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_79_valores_unicos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_19_dicionarios_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_19_dicionarios_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_84_analise_lista_composta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_90_media.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafios/mundo_3/desafio_77_contando_vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafios/mundo_3/desafio_77_contando_vogais.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/mundo_3/aula_17_1_listas.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aulas/mundo_3/aulas_17_1_listas_a.py" beforeDir="false" afterPath="$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,19 +23,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_79_valores_unicos.py">
+        <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido.py">
+        <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="108">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="233">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -50,15 +64,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/desafios/desafio_14_conversor_temperatura.py" />
-        <option value="$PROJECT_DIR$/desafios/desafio_13_salario_15%_aumento.py" />
-        <option value="$PROJECT_DIR$/desafios/desfaio_15_valor_aluguel_carro.py" />
-        <option value="$PROJECT_DIR$/desafios/desafio_16.py" />
-        <option value="$PROJECT_DIR$/desafios/desafio_21.py" />
-        <option value="$PROJECT_DIR$/selenium_test.py" />
-        <option value="$PROJECT_DIR$/desafios/mundo_1/desafio_30_par_ou_impar.py" />
-        <option value="$PROJECT_DIR$/aulas/mundo_1/aula_11.py" />
-        <option value="$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py" />
         <option value="$PROJECT_DIR$/desafios/mundo_2/desafio_36_emprestimo_bancario.py" />
         <option value="$PROJECT_DIR$/desafios/mundo_2/desafio_43_imc.py" />
         <option value="$PROJECT_DIR$/aulas/mundo_2/aula_13_estrutura_repeticao.py" />
@@ -101,6 +106,15 @@
         <option value="$PROJECT_DIR$/desafios/mundo_3/desafio_79_valores_unicos.py" />
         <option value="$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido,py.py" />
         <option value="$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_17_2_listas.py" />
+        <option value="$PROJECT_DIR$/desafios/mundo_3/desafio_84_analise_lista_composta.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_19_1_dicionarios.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_19_dicionarios.py" />
+        <option value="$PROJECT_DIR$/desafios/mundo_3/desafio_90_media.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aulas_20_funcoes_1.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_1.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_2.py" />
+        <option value="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_3.py" />
       </list>
     </option>
   </component>
@@ -118,7 +132,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -152,6 +165,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -180,8 +194,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.desafio_80_lista_ordenada_n_repetido">
-    <configuration name="aula_16_tuplas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.aula_20_funcoes_3">
+    <configuration name="aula_19_1_dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo_3/aula_16_tuplas.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Inmetrics\PycharmProjects\CursoEmVideo\aulas\mundo_3\aula_19_dicionarios_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_75_analisando_tupla" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula_19_dicionarios" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_3/desafio_75_analisando_tupla.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Inmetrics\PycharmProjects\CursoEmVideo\aulas\mundo_3\aula_19_dicionarios_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +237,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_78_maior_menor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula_20_funcoes_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +245,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_3/desafio_78_maior_menor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +258,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_79_valores_unicos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aula_20_funcoes_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +266,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_3/desafio_79_valores_unicos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="desafio_80_lista_ordenada_n_repetido" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="aulas_20_funcoes_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CursoEmVideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +287,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/desafios/mundo_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/aulas/mundo_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Inmetrics\PycharmProjects\CursoEmVideo\aulas\mundo_3\aula_20_funcoes_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,11 +302,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.desafio_80_lista_ordenada_n_repetido" />
-        <item itemvalue="Python.desafio_79_valores_unicos" />
-        <item itemvalue="Python.desafio_78_maior_menor" />
-        <item itemvalue="Python.aula_16_tuplas" />
-        <item itemvalue="Python.desafio_75_analisando_tupla" />
+        <item itemvalue="Python.aula_20_funcoes_3" />
+        <item itemvalue="Python.aula_20_funcoes_2" />
+        <item itemvalue="Python.aulas_20_funcoes_1" />
+        <item itemvalue="Python.aula_19_dicionarios" />
+        <item itemvalue="Python.aula_19_1_dicionarios" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +327,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2924107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -324,7 +338,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2777778" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2772109" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3282313" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.40986395" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -333,18 +347,18 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.46800596" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3282313" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49925596" weight="0.414966" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49925596" visible="true" weight="0.41326532" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32916668" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27891156" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.2772109" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.3282313" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50074404" side_tool="true" weight="0.40986395" />
       <window_info anchor="bottom" id="Messages" order="11" />
@@ -394,46 +408,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/desafios/mundo_2/desafio_70_estatiticas_produtos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula7_operadores_aritimeticos.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula7_operadores_aritimeticos_exemplos.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula08_modulos.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula10_condicoes.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/aula_11_cores.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/hello_world.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_1/testando_import_externo_aula08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aulas/mundo_2/aula_12_condicoes_aninhadas.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -625,21 +599,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aulas_17_1_listas_a.py">
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
           <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_78_maior_menor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_17_1_listas.py">
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
@@ -648,15 +615,78 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_79_valores_unicos.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="189">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_80_lista_ordenada_n_repetido.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
-          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_78_maior_menor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_17_listas_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="40" column="12" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_84_analise_lista_composta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/desafios/mundo_3/desafio_90_media.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_19_dicionarios_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_19_dicionarios_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aulas/mundo_3/aula_20_funcoes_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
